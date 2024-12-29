@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office" title="Microsoft Office Suite" />
-<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau" />
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" />
+<img src="imagenes/Captura de pantalla 2024-12-29 201028.png" title="Inicio" />
+<img src="imagenes/Captura de pantalla 2024-12-29 201056" title="Interfaz Carreras" />
+<img src="imagenes/Captura de pantalla 2024-12-29 201117" alt="Power BI" title="interfaz Alumnos" />
 
